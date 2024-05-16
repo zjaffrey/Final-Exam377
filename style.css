@@ -1,1 +1,24 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
 
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.deleteButton {
+    color: brown;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAIhJREFUSEtjZCAMGhgYGOwZGBgcsChtBIqB5HECRgLmgzTXE1CD1xJCFvyHGo7NEJjlBxgYGBxxOQLZAphhhAONOBVgs+lqAXHuIlEVtjigNKhQzBz+FoB8CAsyYtjoCQclFcGiDzkOiDEUWc2oBQTjYzSIRoMIktVGM9rAF9fEtCRw1WsYjQMAHYtRGcI6bCEAAAAASUVORK5CYII=') no-repeat;
+    width:30px;
+    height:30px;
+    margin-left: 10px;
+    text-size-adjust: large;
+}
